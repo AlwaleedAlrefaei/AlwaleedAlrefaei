@@ -14,11 +14,16 @@
 
 ### 🤝Connect with me:
 
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alwaleed-alrefaei-48a28b2a0/)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/alwaleed-alrefaei-48a28b2a0/#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/alwaleed-alrefaei-48a28b2a0/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://x.com/ITAlwaleed)
+[![website](./img/twitter-light.svg)](https://x.com/ITAlwaleed#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://x.com/ITAlwaleed#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/alwaleedrefai/)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/alwaleedrefai/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/alwaleedrefai/#gh-dark-mode-only)
+&nbsp;&nbsp;
+
 
 ### 🛠️Languages and Tools:
 
