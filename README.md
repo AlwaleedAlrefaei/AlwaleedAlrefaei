@@ -3,7 +3,7 @@
 
 
 
-## I'm a Software Engineer, Arch Linux Enthusiast, Developer!!
+## I'm a Programmer, Arch Linux Enthusiast, Developer!!
 
 - 🌱 I’m currently learning DevOps Engineering
 - 👯 I’m looking to collaborate with other developers
